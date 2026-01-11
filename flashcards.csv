@@ -1,0 +1,6 @@
+A program in execution, containing code, data, and its PCB.|process|2
+The smallest unit of scheduling inside a process.|thread|2
+Removing redundancy and improving data consistency.|normalization|2
+A blueprint for creating objects.|class|2
+Restricting direct access to object data using private fields.|encapsulation|1
+Converting readable data into protected, unreadable form.|encryption|1
